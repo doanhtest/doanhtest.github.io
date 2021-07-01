@@ -12,21 +12,32 @@ I'm sophomore at University of Information Technology, Vietnam National Universi
 
 ## <a name="exp"></a> Experience
 
-**Officience**<br/>
-December 2020, Data Scientist Intern
+**University of Information Technology, VNU**<br/>
+December 2014, Lecturer<br/>
 
+**MMLab**<br/>
+December 2014, Researcher<br/>
 
 ## <a name="edu"></a> Education
 
-***University of Information Technology, VNU***<br/>
-2019 - expected 2023, Bachelor
+***University of Science, VNU***<br/>
+2014 - 2016, Master of Computer Science<br/>
+
+***University of Science, VNU***<br/>
+2009 - 2013, Bachelor of Computer Science<br/>
 
 ## <a name="publication"></a> Publications
 
+<!-- Title -->
 MC-OCR Challenge 2021: Deep Learning Approach for Vietnamese Receipts OCR<br/>
+
+<!-- Authors -->
 **Doanh C. Bui**, Dung Truong, Nguyen D. Vo, Khang Nguyen<br/>
+
+<!-- Conferences/Journal -->
 *THE 2021 RIVF INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION TECHNOLOGIES (**RIVF**)*<br/>
-[[Request PDF](https://www.researchgate.net/publication/352794568_MC-OCR_Challenge_2021_Deep_Learning_Approach_for_Vietnamese_Receipts_OCR)]
+[[Request PDF](https://www.researchgate.net/publication/352794568_MC-OCR_Challenge_2021_Deep_Learning_Approach_for_Vietnamese_Receipts_OCR)] [[Code](github.com/nguyenvd-uit/)] 
+
 
 Phát hiện phương tiện giao thông tại các trung tâm thành phố lớn với phương pháp YOLOv4<br/>
 Hồ Thái Ngọc, Phạm Thị Hoàng Mai, **Bùi Cao Doanh**, Trịnh Thị Thanh Trúc, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang<br/>
@@ -39,11 +50,14 @@ Một phương pháp học sâu phát hiện cảm xúc gương mặt<br/>
 *Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông tại Quảng Ninh, Việt Nam*<br/>
 [[Request PDF](https://www.researchgate.net/publication/352805319_Mot_phuong_phap_hoc_sau_phat_hien_cam_xuc_guong_mat?_sg=ss5UEL_GprbWbqDmzw3FMpy2fexSeehjsPKZTXXrPDGOHh8zJvtXEkVPJwBF1vQ7b7GcpVog4d5tjYJDaaLt0JBYS92DJmRkUUJp84Cg.74-yhGRSHufs2je_sbzaZJfvIQn9csv-pxtExptgCc2oT8Px5s8ZELN_sYbgAxh5XEu628FpDMpFSwqlDZipog)]
 
-## <a name="award"></a> Award
+<!-- ## <a name="award"></a> Award
 
 * Top 15 Zalo AI Challenge (Traffic Sign Detection)
 * Semi-finalist of the Eureka Student Scientific Research Competition, organized by HoChiMinh Communist Youth Union of Ho Chi Minh city
 
 ## <a name="courses"></a> Courses
 
-[Here](https://github.com/caodoanh2001/Certificates)
+[Here](https://github.com/caodoanh2001/Certificates) -->
+
+## Misc
+
