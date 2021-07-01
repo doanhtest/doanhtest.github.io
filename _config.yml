@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Doanh C. Bui"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,30 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Doanh C. Bui"
+  name             : "Nguyen D. Vo"
   avatar           : "profile.png"
   bio              : "Computer Vision, Deep Learning, Machine Learning, Object Detection"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "19521366@gm.uit.edu.vn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "nguyenvd@uit.edu.vn"
+  researchgate     : "Doanh-Bui-4"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "buicaodoanh"
+  facebook         : "nguyenvd"
   foursquare       :
-  github           : "caodoanh2001"
+  github           : "nguyenvd-uit"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "buicaodoanh"
-  orcid            : "Doanh-Bui-4"
+  linkedin         : #"buicaodoanh"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
